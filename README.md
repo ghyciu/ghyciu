@@ -2,7 +2,7 @@
 
 I'm a full-stack web developer based in Manila, Philippines. I'm also an AI/ML Engineer with experience working on chat bots and virtual assistants and a game developer with experience developing and maintaining live-service games.
 
-Worked on <a href="https://storychat.app">Storychat</a>, an AI chatbot sharing platform and social media site.
+Working on <b><a href="https://storychat.app">Storychat</a></b>, an AI chatbot sharing platform and social media site. Feel free to also check out my <b><a href="https://ghyciu.com">personal website</a></b>!
 
 <p align=center><img height="350" alt="Cosplay Photo" src="https://github.com/user-attachments/assets/f029624c-40f9-4928-8fe7-20c03e3890e9" />
 </p>
@@ -10,7 +10,7 @@ Worked on <a href="https://storychat.app">Storychat</a>, an AI chatbot sharing p
 <p align=center><i>In my free time, I like to cosplay!</i>
 
 <p align=center>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,vuejs,vite,cs,cpp,java,rust,swift,dart,flutter,godot,unity,arduino,latex,matlab,opencv,mongodb,firebase,aws,gcp,docker,kubernetes," />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,tailwind,vuejs,vite,cs,cpp,java,rust,swift,dart,flutter,godot,unity,arduino,latex,matlab,opencv,mongodb,firebase,aws,gcp,docker,kubernetes&perline=8" />
 </p>
 
 <p align=center>
